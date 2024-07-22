@@ -15,7 +15,7 @@
 <p align="left">
 <a href="linkedin.com/in/sanjula-perera99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjula perera" height="30" width="40" /></a>
   <a href="https://lakperera.github.io/myPortFolio/">
-    <img align="center" src="file:///E:/Project/Data_Science_Pro/django-project/profile-user-svgrepo-com.svg" alt="sanjula perera" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/fluency/48/administrator-male.png" height="30" width="40" />
   </a>
 </p>
 <div align="center">
